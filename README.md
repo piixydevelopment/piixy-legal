@@ -4,33 +4,34 @@ Welcome to the official legal documentation repository of **Piixy**, a Discord b
 
 ## About Piixy
 
-Piixy provides interactive features designed to enhance the Discord server experience, including:
+Piixy provides interactive features designed to enhance the Discord server experience:
 
 - **PXcoins:** Virtual currency and economy system.
 - **User Profiles:** Personal statistics and account information.
 - **Virtual Shop:** Items, upgrades and special effects.
 - **Protection Systems:** Shields, effect reflection and effect removal.
 - **Minigames:** Interactive entertainment and activities.
-- **Rewards:** Systems designed to encourage community participation.
+- **Rewards:** Community participation rewards.
 
 ## Legal Documentation
 
-The following documents establish the rules and policies applicable to Piixy:
-
-- [Terms of Service](https://TU-USUARIO.github.io/piixy-legal/)
-- [Privacy Policy](https://TU-USUARIO.github.io/piixy-legal/privacy)
+- [Terms of Service](https://piixydevelopment.github.io/piixy-legal/)
+- [Privacy Policy](https://piixydevelopment.github.io/piixy-legal/privacy.html)
 
 ## Project Information
 
 - **Project:** Piixy
+- **Developer:** Piixy Development
 - **Platform:** Discord
-- **Repository:** piixy-legal
-- **Documentation language:** English and Spanish (as applicable)
+- **Documentation:** GitHub Pages
 
 ## Contact
 
-For questions or concerns regarding Piixy and its legal documentation, please use the official support channels.
+For questions or concerns, please use the official Piixy support channels.
 
+---
+
+© 2026 Piixy. All rights reserved.
 ---
 
 © 2026 Piixy. All rights reserved.
